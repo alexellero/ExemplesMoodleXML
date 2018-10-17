@@ -8,4 +8,8 @@
     <text>false</text>
     <feedback><text>Ooops!</text></feedback>
  </answer>
+<answer fraction="100">
+    <text>true</text>
+    <feedback><text>Ooops true!</text></feedback>
+ </answer>
  </question>
